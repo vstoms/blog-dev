@@ -1,7 +1,7 @@
 ---
 template: post
 title: Test of GitHub Action
-slug: posts/2020/renewal-ndes-certificate/
+slug: posts/2020/test-of-github-action/
 draft: false
 date: 2020-05-20T08:56:00.695Z
 description: >-
